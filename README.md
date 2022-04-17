@@ -1,0 +1,9 @@
+- 👋 HELLO, I’m @SULTAN-XD
+- 👀 Chota Mota Hacker ...
+- 😈 Panga Lana Ke Sochna B Mat...
+- 😎 THANKS FOR READ ...
+
+<!---
+SULTAN-XD/SULTAN-XD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
